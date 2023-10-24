@@ -10,7 +10,7 @@ n/a
 
 ## Usage
 
-![screenshot 1 of website](assets/images/Screenshot 2023-10-23 at 3.37.29 PM.png)
+![screenshot 1 of website](assets/images/screenshot.png)
 link to deployed application: https://caaren10.github.io/challenge1-socialmediamarketing/ 
 
 ## Credits
